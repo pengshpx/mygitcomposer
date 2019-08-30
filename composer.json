@@ -1,0 +1,12 @@
+{
+    "name": "mygit/githellow",
+    "description": "my git",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "peng",
+            "email": "1067009540@qq.com"
+        }
+    ],
+    "require": {}
+}
